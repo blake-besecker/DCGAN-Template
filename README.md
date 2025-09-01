@@ -1,6 +1,8 @@
-I used this code exactly as is with this dataset:
+I used the model code exactly as is with this dataset:
 https://huggingface.co/datasets/huggan/anime-faces
-To generate faces of anime people. You could theoretically train it on any dataset however, but bear in mind it will always predict 128x128 images and is intended for that use unless you decide to change the dimensions. Keep in mind in that code you'll have to add in your own dataset directory
+Training with the epochs and parameters provided, I was able to achieve the results located in the 'results' folder.
+Parameters could certainly be adjusted for a higher resolution with great detail, especially with this quality dataset.
+
 
 
 
